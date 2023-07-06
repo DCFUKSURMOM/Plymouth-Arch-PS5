@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=ArchPS5
+Description=PS5 boot animation with Arch Linux logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ArchPS5
+ScriptFile=/usr/share/plymouth/themes/ArchPS5/ArchPS5.script

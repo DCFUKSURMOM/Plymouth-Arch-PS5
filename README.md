@@ -1,0 +1,1 @@
+To install copy the ArchPS5 folder to /usr/share/plymouth/themes
